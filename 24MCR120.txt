@@ -2,3 +2,4 @@ Name          : Umamaheshwari M
 Reg No        : 24MCR120
 Dept          : MCA
 Favourite Sub : JAVA
+Mobile Model  : Realme 11X 5G
